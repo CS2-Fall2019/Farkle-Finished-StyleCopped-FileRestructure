@@ -1,0 +1,355 @@
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\bin\Debug\farkle.exe.config
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\bin\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\bin\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\App.g.cs
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\MainMenu.baml
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\MainWindow.baml
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\farkle.g.resources
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\obj\Debug\Scoring.baml
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\App.g.cs
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\MainMenu.baml
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\MainWindow.baml
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\Scoring.baml
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\farkle.g.resources
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\farkle\bin\Debug\farkle.exe.config
+C:\Users\Home\OneDrive\Desktop\farkle\bin\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\farkle\bin\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Home\OneDrive\Desktop\farkle\obj\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\farkle.pdb
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\bin\Debug\farkle.exe.config
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\bin\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\bin\Debug\farkle.pdb
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\MainMenu.baml
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\Scoring.baml
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\farkle.g.resources
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\C#2\Farkle\farkle-Farkle10-20Updated\farkle\farkle\obj\Debug\farkle.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Desktop\farklemaster\bin\Debug\farkle.exe.config
+C:\Users\Home\OneDrive\Desktop\farklemaster\bin\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\farklemaster\bin\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\MainMenu.g.cs
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\MainWindow.g.cs
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\Scoring.g.cs
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\App.g.cs
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\MainMenu.baml
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\MainWindow.baml
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\Scoring.baml
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\farkle.g.resources
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\farklemaster\obj\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\farkle-master\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\james.schulze\source\repos\farkle\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\james.schulze\source\repos\farkle\farkle\bin\Debug\farkle.exe.config
+C:\Users\james.schulze\source\repos\farkle\farkle\bin\Debug\farkle.exe
+C:\Users\james.schulze\source\repos\farkle\farkle\bin\Debug\farkle.pdb
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\Scoring.g.cs
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\App.g.cs
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\MainMenu.baml
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\MainWindow.baml
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\Scoring.baml
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle.g.resources
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle.csproj.CoreCompileInputs.cache
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle.exe
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle.pdb
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\bin\Debug\farkle.exe.config
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\bin\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\bin\Debug\farkle.pdb
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\MainMenu.baml
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\Scoring.baml
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle.g.resources
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle.pdb
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-20191026\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\bin\Debug\farkle.exe.config
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\bin\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\bin\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\App.g.cs
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\MainMenu.baml
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\MainWindow.baml
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\Scoring.baml
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\farkle.g.resources
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\C#Week10\Farkle-farkle-103119\farkle\obj\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\bin\Debug\farkle.exe.config
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\bin\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\bin\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\App.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\MainMenu.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\MainWindow.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\Scoring.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\farkle.g.resources
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-103119\farkle\obj\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\bin\Debug\farkle.exe.config
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\bin\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\bin\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\App.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\MainMenu.baml
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\MainWindow.baml
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\Scoring.baml
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\farkle.g.resources
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\farkle.pdb
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\App.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle.exe
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle.pdb
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\bin\Debug\farkle.exe.config
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\bin\Debug\farkle.exe
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\bin\Debug\farkle.pdb
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\Winner.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\MainMenu.baml
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\MainWindow.baml
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\Scoring.baml
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\Winner.baml
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle.g.resources
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 2\Farkle-farkle-11032019(2)\Farkle-farkle-11032019\farkle\obj\Debug\farkle.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\Winner.g.cs
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle.pdb
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\bin\Debug\farkle.exe.config
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\bin\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\bin\Debug\farkle.pdb
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\MainMenu.baml
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\Scoring.baml
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\Winner.baml
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle.g.resources
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\C#2\Farkle-Farkle-almost-done\farkle\obj\Debug\farkle.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\bin\Debug\farkle.exe.config
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\bin\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\bin\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\Winner.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\App.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\MainMenu.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\MainWindow.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\Scoring.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\Winner.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\farkle.g.resources
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-110519\farkle\obj\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\Winner.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle\farkle\obj\Debug\Winner.baml
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\bin\Debug\farkle.exe.config
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\bin\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\bin\Debug\farkle.pdb
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\Winner.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\MainMenu.baml
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\Scoring.baml
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\Winner.baml
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle.g.resources
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle\Farkle-AI_Start\farkle\obj\Debug\farkle.pdb
+C:\Users\james.schulze\source\repos\farkle\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\Winner.g.cs
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\james.schulze\source\repos\farkle\farkle\obj\Debug\Winner.baml
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\bin\Debug\farkle.exe.config
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\bin\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\bin\Debug\farkle.pdb
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\Winner.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\MainMenu.baml
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\Scoring.baml
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\Winner.baml
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle.g.resources
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle.exe
+C:\Users\Owner\Documents\C#2\Farkle\farkle-master\farkle\obj\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\bin\Debug\farkle.exe.config
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\bin\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\bin\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\Winner.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\App.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\farkle_Content.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\farkle_MarkupCompile.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\farkle_MarkupCompile.lref
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\MainMenu.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\MainWindow.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\Scoring.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\Winner.baml
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\farkle.g.resources
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\farkle.Properties.Resources.resources
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\farkle.exe
+C:\Users\Home\OneDrive\Desktop\Farkle-farkle-111119\farkle\obj\Debug\farkle.pdb
+C:\Users\Home\OneDrive\Desktop\Farkle-master\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Home\OneDrive\Desktop\Farkle-master\farkle\obj\Debug\Winner.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-master\farkle\obj\Debug\Farkle_Content.g.cs
+C:\Users\Home\OneDrive\Desktop\Farkle-master\farkle\obj\Debug\Winner.baml
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\bin\Debug\Resources\Farkle.png
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\bin\Debug\Scoring.xaml.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\bin\Debug\Farkle.exe.config
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\bin\Debug\Farkle.exe
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\bin\Debug\Farkle.pdb
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\farkle.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\MainMenu.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\MainWindow.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Scoring.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Winner.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\App.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Farkle_Content.g.cs
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Farkle_MarkupCompile.cache
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Farkle_MarkupCompile.lref
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\MainMenu.baml
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\MainWindow.baml
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Scoring.baml
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Winner.baml
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Farkle.g.resources
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Farkle.Properties.Resources.resources
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\farkle.csproj.GenerateResource.cache
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\farkle.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Farkle.exe
+C:\Users\Brandon\Documents\NWTC\C# part 2\TeamProjects\Game 2 part 3\Farkle-Finished-StyleCopped\Farkle-Finished-StyleCopped\farkle\obj\Debug\Farkle.pdb

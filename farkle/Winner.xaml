@@ -1,0 +1,19 @@
+﻿<Window x:Class="Farkle.Winner"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Farkle"
+        mc:Ignorable="d"
+        Title="Winner" Height="450" Width="800" Background="#FF36DA81" Icon="Resources/farkleicon.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="lblWinner" Content="Congratulations Player 1 Wins!" HorizontalAlignment="Center" Margin="110,146,34,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="36" Width="648" Height="62" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnNewGame" Content="Start New Game" HorizontalAlignment="Left" Margin="206,280,0,0" VerticalAlignment="Top" Width="148" Height="79" Click="BtnNewGame_Click" FontSize="18"/>
+        <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Left" Margin="456,280,0,0" VerticalAlignment="Top" Width="148" Height="79" Click="BtnExit_Click" Grid.ColumnSpan="2" FontSize="18"/>
+
+    </Grid>
+</Window>
